@@ -1,1 +1,2 @@
-alert["hello!This is a  simple Javascript alert"]
+alert["hello!This is a  simple 
+    smpp Javascript alert"]
