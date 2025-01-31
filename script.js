@@ -1,2 +1,5 @@
-alert["hello!This is a  simple 
-    smpp Javascript alert"]
+
+    alert("Hello! This is a simple JavaScript alert.");
+}function showAlert() {
+    alert("Hello! This is a simp JavaScript alert.");
+}
